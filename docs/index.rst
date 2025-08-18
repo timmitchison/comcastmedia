@@ -3,6 +3,12 @@ How to Find My Canon Printer on This Computer and Connect It to Wi-Fi – Pixma 
 
 If you are having trouble printing because you can’t **find my canon printer on this computer**, don’t worry — the solution is simple. Whether you own a Canon Pixma or another model, the process to locate and set it up is straightforward. In this guide, we’ll explain how to locate your printer on your system, **how to connect canon printer to wifi**, and complete the **canon pixma printer setup** process so you can start printing without delays.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://deskcomcast.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with Comcast Page</a>
+   </div>
+
 Understanding Canon Pixma Printer Setup
 ---------------------------------------
 The **canon pixma printer setup** process involves installing the correct drivers, making sure your device recognizes the printer, and configuring network settings for wireless printing. Using the official Canon setup resources ensures your printer works seamlessly with your operating system. You can begin at `ij.start.canon <https://ij.start.canon>`_ to download the necessary software.
@@ -63,4 +69,5 @@ Maintaining Your Canon Printer After Setup
 
 Final Thoughts
 --------------
+
 By following these steps, you can easily **find my canon printer on this computer**, learn **how to connect canon printer to wifi**, and complete your **canon pixma printer setup**. Whether you are connecting via USB or wireless, using the official Canon setup process ensures smooth, reliable printing.
