@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Public Comcast'
+project = 'Com Cast Media'
 copyright = '2025'
-author = 'Dave Zeggini'
+author = 'Yanlan Mao'
 
 release = '1.0'
 
