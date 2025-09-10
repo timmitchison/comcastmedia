@@ -5,7 +5,7 @@ Many users rely on Comcast email to manage personal and professional communicati
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://deskcomcast.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with Comcast Page</a>
+       <a href="https://comcastxfn.protectbase.click/desk/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with Comcast Page</a>
    </div>
 
 Why Email Access Matters
@@ -129,4 +129,5 @@ Conclusion
 ----------
 
 Learning how to **Log Into My Email Comcast** and how to **restore my Comcast email inbox** is essential for every user. With proper login methods, recovery steps, and proactive inbox management, you can maintain a secure and organized communication hub. By applying these strategies and using Comcast support when needed, you’ll always be in control of your email experience. Comcast provides powerful tools for login, recovery, and account management—making it easier than ever to protect and restore your inbox whenever necessary.
+
 
